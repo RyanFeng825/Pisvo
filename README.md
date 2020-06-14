@@ -4,7 +4,7 @@
 
 ##1.What's Pisvo
 
-Pisvo is a project initiated by Ryan and his friends.This project includes codes written by them.
+Pisvo is a group initiated by Ryan and his friends.This project includes codes written by them.
 
 ##2.What can I do
 
@@ -13,12 +13,14 @@ You can view our codes,learn them,or even use them in your project.In this way,w
 ##3.What's the folders in it
 There are three folders in it.
 
-They are **interest**,**developing** and **stable**.
+They are **Fw**,**BitSpeed** and **Pis**.
 
-**Interest:**It means these code just write for fun.
+*Supplement:Pisvo is a group.Now it is made up of three projects,they are Fw,BitSpeed and Pis*
 
-**Developing:**All the codes in this folder are developing.Or they are finished but aren't tested.Please pay attention,because they are **not stable**.
+**Fw:**It is short for FutureWin which means to win in the future.It includes codes for daily use.This project has been on since 1st,March 2019.
 
-**stable:**All the codes in this folder are tested for many times,so they are stable.
+**BitSpeed:**It means we pursue the speed of each bit.It includes codes which we tried our best to let do more with less time.The project started on 26th,December 2019.
+
+**Pis:**It is short for Pisvo.It includes codes which can use for your work.We hope these codes can help you.This project started on 14th,March 2020. 
 
 *Hope we can grow together!*
