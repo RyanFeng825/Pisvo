@@ -8,7 +8,7 @@ Pisvo is a group initiated by Ryan and his friends.This project includes codes w
 
 ##2.What can I do
 
-You can view our codes,learn them,or even use them in your project.In this way,we hope to help you.Also,you can join us.You can email us at ryanf1955@outlook.com,and we'll tell you what to do next.
+You can view our codes,learn them,or even use them in your project.In this way,we hope to help you.If you have any problems,you can email us at ryanf1955@outlook.com.
 
 ##3.What's the folders in it
 There are three folders in it.
